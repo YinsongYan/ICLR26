@@ -1,5 +1,5 @@
 # 
-Official Codes for ***Advancing Spatial-temporal Representation of Spiking Neural Networks Through a Parametric Invertible Transformation (ICLR 2026)***
+Official Codes for ***Advancing Spatiotemporal Representations in Spiking Neural Networks via Parametric Invertible Transformation (ICLR 2026)***
 
 
 
