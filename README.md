@@ -19,7 +19,7 @@ pip install torch==2.0.1+cu118 torchaudio==2.0.2+cu118 torchvision==0.15.2+cu118
 pip install -r requirements.txt
 
 # install spikingjelly==0.0.0.0.15
-cd spikingjelly
+cd sjv15/spikingjelly
 pip install .
 ```
 
